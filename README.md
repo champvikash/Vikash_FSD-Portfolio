@@ -1,1 +1,14 @@
 # Vikash_FSD-Portfolio
+for now , I know  
+HTML
+CSS
+JAVASCRIPT 
+REACT 
+Nodejs
+JAVA
+SPRINGBOOT
+SQL
+AGILE
+JIRA
+GIT 
+GITHUB
